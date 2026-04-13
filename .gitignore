@@ -1,0 +1,18 @@
+# Credentials and Secrets
+key*
+*.pem
+*.env
+
+# Backup and Temporary files
+*.bkp
+*.bak
+*~
+
+# Project Specific
+guide-fixed*
+docs/
+
+# Optional: IDE and OS files
+.vscode/
+.idea/
+.DS_Store
